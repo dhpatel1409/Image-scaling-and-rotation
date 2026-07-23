@@ -39,11 +39,10 @@ holes/gaps that forward mapping can leave in the output image.
 
 | Transformation | Nearest Neighbour | Bilinear |
 |---|---|---|
-| Scaling (factor = 2) | `scaleopnear_neigh.jpg` | `scaleop_bilinear.jpg` |
-| Rotation (θ = 45°) | `rotateop_nearest.jpg` | `rotateop_bilinear.jpg` |
+| Scaling (factor = 2) | [Scaling nearest Neighbour](output/scaleopnear_neigh.jpg) | [Scaling Bilinear](output/scaleop_bilinear.jpg) |
+| Rotation (θ = 45°) | [Rotation Nearest Neighbour](rotateop_nearest.jpg) | [Rotation Bolinear](rotateop_bilinear.jpg) |
 
-*(Add the actual images to `output/` and embed them here with
-`![caption](output/filename.jpg)` once generated.)*
+
 
 
 
